@@ -115,7 +115,7 @@ Program Running Successfully:
 ![image alt](https://github.com/brotodeep/source_code/blob/main/Screenshots/Program%20Running%20Successfully.png?raw=true)
 
 Project Structure:
-![image alt]()
+![image alt](https://github.com/brotodeep/source_code/blob/main/Screenshots/Project%20Structure.png?raw=true)
 
 Run Configuration:
 ![image alt]()
