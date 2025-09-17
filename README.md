@@ -108,12 +108,16 @@ Click Apply, then Run.
 Java Installation Verification:-
 ![image alt](https://github.com/brotodeep/source_code/blob/main/Screenshots/Java%20Installation%20Verification.png?raw=true)
 
+New Project Creation:
 ![image alt](https://github.com/brotodeep/source_code/blob/main/Screenshots/New%20Project%20Creation.png?raw=true)
 
+Program Running Successfully:
+![image alt](https://github.com/brotodeep/source_code/blob/main/Screenshots/Program%20Running%20Successfully.png?raw=true)
+
+Project Structure:
 ![image alt]()
 
-![image alt]()
-
+Run Configuration:
 ![image alt]()
 
 
