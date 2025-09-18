@@ -10,7 +10,7 @@ Prerequisites
 
 Steps:-
 Clone the Repository:
-git clone <your-repository-link>
+git clone <[your-repository-link](https://github.com/brotodeep/source_code)>
 
 Open in IDE: Open the cloned folder as a new project in your IDE.
 Locate Main Class: Navigate to the Main.java file in the main src directory.
