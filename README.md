@@ -1,3 +1,6 @@
+// Registration number:- 24BCE10477
+//Name:- Brotodeep Pal
+
 Project Overview:-
 The Campus Course & Records Manager (CCRM) is a console-based Java application designed to manage student and course records for an educational institute. 
 It provides functionalities for student management (add, update, enroll), course management (create, search, assign instructors), grading, and transcript generation. 
